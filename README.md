@@ -1,4 +1,4 @@
-To see my website, please visit [Here][website]
+To visit, please click [Here][website]
 
 
 
