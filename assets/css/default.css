@@ -1613,6 +1613,10 @@
 			padding: 0px 15px;
 		}
 
+	h2 + p {
+		padding: 0;
+	}
+
 	footer {
 		margin: 2em 0 0 0;
 	}
