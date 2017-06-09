@@ -1961,6 +1961,10 @@
 			font-size: 0.8em;
 		}
 
+		.item header p {
+			height: 150%;
+		}
+
 			.item header h3 {
 				font-size: 1em;
 			}
